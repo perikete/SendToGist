@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendToGist", "SendToGist\SendToGist.csproj", "{3B978794-CFF3-42E9-9E8D-02601C9ADAE4}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = CodeBlog.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B978794-CFF3-42E9-9E8D-02601C9ADAE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B978794-CFF3-42E9-9E8D-02601C9ADAE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B978794-CFF3-42E9-9E8D-02601C9ADAE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B978794-CFF3-42E9-9E8D-02601C9ADAE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
